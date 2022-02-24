@@ -4,7 +4,7 @@
             "outputFile": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\17521\\.gradle\\caches\\transforms-3\\f319214daff2f33590c4396b6738c52b\\transformed\\material-1.3.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\17521\\.gradle\\caches\\transforms-3\\53f771609307c76a9b749c0c34b76565\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
