@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CaiNiao.iml" filepath="$PROJECT_DIR$/.idea/modules/CaiNiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CaiNiao.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CaiNiao.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CaiNiao.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CaiNiao.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/course/CaiNiao.course.iml" filepath="$PROJECT_DIR$/.idea/modules/course/CaiNiao.course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/home/CaiNiao.home.iml" filepath="$PROJECT_DIR$/.idea/modules/home/CaiNiao.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/login/CaiNiao.login.iml" filepath="$PROJECT_DIR$/.idea/modules/login/CaiNiao.login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mine/CaiNiao.mine.iml" filepath="$PROJECT_DIR$/.idea/modules/mine/CaiNiao.mine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/CaiNiao.service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/CaiNiao.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study/CaiNiao.study.iml" filepath="$PROJECT_DIR$/.idea/modules/study/CaiNiao.study.iml" />
+    </modules>
+  </component>
+</project>

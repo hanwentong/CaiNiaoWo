@@ -1,0 +1,17 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "CaiNiao"
+include ':app'
+include ':home'
+include ':common'
+include ':course'
+include ':login'
+include ':mine'
+include ':service'
+include ':study'

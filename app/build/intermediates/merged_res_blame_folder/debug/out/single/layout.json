@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\Project\\Demo\\KotlinDemo\\CaiNiao\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    }
+]

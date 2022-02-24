@@ -1,0 +1,10 @@
+com/hwt/cainiao/databinding/ActivityMainBinding.java
+ com.hwt.cainiao.databinding.ActivityMainBinding
+com/hwt/cainiao/databinding/FragmentNotificationsBinding.java
+ com.hwt.cainiao.databinding.FragmentNotificationsBinding
+com/hwt/cainiao/databinding/FragmentDashboardBinding.java
+ com.hwt.cainiao.databinding.FragmentDashboardBinding
+com/hwt/cainiao/databinding/FragmentHomeBinding.java
+ com.hwt.cainiao.databinding.FragmentHomeBinding
+com/hwt/cainiao/BuildConfig.java
+ com.hwt.cainiao.BuildConfig
